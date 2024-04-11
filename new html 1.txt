@@ -8,7 +8,7 @@
 	</head>
 	<body>
 		<p>Hello, World, and welcome to my first website!</p>
-		<p>Stay tuned as I will contune to add new content to this site over the next few months; so, please check back!</p>
+		<p>Stay tuned as I will continue to add new content to this site over the next few months; so, please check back!</p>
 	</body>
 /html>
 		
