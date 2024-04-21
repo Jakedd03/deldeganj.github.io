@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-widfth, inital-scale=1.0">
+		<meta name="viewport" content="width=device-width, inital-scale=1.0">
 		<meta name="author" content="Jacob Del Degan">
 		<title>Awesome science application correspondance</title>
 		<style>
@@ -28,7 +28,7 @@
 			p, li, dd, dt, adress {
 				line-height: 1.5;
 			}
-			adress {
+			address {
 				font-style:normal;
 				margin:1rem 0;
 			}
